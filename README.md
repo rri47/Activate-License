@@ -8,7 +8,7 @@
 <body>
 <div class="card">
   <div class="avatar">
-    <img src="![Preview](https://github.com/rri47/Activate-License/assets/164040519/792b48ca-cce5-43e6-b20e-9e6679564554)" alt="Avatar">
+    <img src="(https://github.com/rri47/Activate-License/assets/164040519/792b48ca-cce5-43e6-b20e-9e6679564554)" alt="Avatar">
   </div>
   <div class="name">rri47</div>
   <div class="job">Web Developer</div>
